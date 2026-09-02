@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "InclusiveSans";
+  src: url(typo/InclusiveSans-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: "InclusiveSans Bold";
+  src: url(typo/InclusiveSans-Bold.woff) format("woff");
+}
+
+
+body {
+	background: linear-gradient(to right, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple,midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple,midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple,midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple,midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple,midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple,midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple, midnightblue, mediumpurple);
+	font-family: InclusiveSans;
+
+
+}
+
+h1{
+	background: lightgrey;
+	color: darkred;
+	font-family: InclusiveSans Bold;
+	font-size: 42px;
+	font-weight: normal;
+	text-align: center;
+}
+
+h2{
+	color: white;
+}
+
+p{
+	line-height: 125%;
+	text-align: justify;
+	color: white;
+}
+
+ul{
+	color: white;
+
+img{
+	width: 500px;
+	height: auto;
+}
